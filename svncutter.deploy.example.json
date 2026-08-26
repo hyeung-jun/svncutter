@@ -1,0 +1,7 @@
+{
+  "host": "192.168.0.10",
+  "port": 22,
+  "username": "deploy",
+  "remotePath": "/home/tomcat/webapps/somtg",
+  "privateKeyPath": "C:\\Users\\me\\.ssh\\id_rsa"
+}

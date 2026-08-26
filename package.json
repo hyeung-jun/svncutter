@@ -1,0 +1,13 @@
+{
+  "name": "svncutter",
+  "version": "1.0.0",
+  "description": "TortoiseSVN 커밋 경로 목록으로 배포용 파일(class/jsp 등)을 묶어주는 CLI",
+  "bin": {
+    "svncutter": "bin/svncutter.js"
+  },
+  "main": "bin/svncutter.js",
+  "license": "MIT",
+  "dependencies": {
+    "ssh2-sftp-client": "^12.1.1"
+  }
+}
