@@ -1,4 +1,4 @@
-# svncutter
+# svncutter for maven(java)
 
 TortoiseSVN 로그에서 복사한 커밋 경로 목록을 붙여넣으면, 배포용 파일(`.class`, 리소스, `.jsp`/`.js` 등)을 자동으로 찾아 배포 폴더 형태로 묶어주는 Node CLI 도구입니다.
 
